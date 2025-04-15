@@ -1,0 +1,12 @@
+[project]
+name = "aidi2004-personalized-music-recommendation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipykernel>=6.29.5",
+    "pip>=25.0.1",
+    "spotipy>=2.25.1",
+]
